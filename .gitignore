@@ -186,3 +186,5 @@ fabric.properties
 
  .DS_Store/
  data/.ipynb_checkpoints/
+
+ src/*sh
