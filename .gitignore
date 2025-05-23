@@ -185,6 +185,9 @@ fabric.properties
  .idea/
 
  .DS_Store/
- data/.ipynb_checkpoints/
 
- src/*sh
+
+03_response_generation/*.py
+04_safety_detection_advbench/*.py
+04_safety_detection_advbench/*.json*
+04_safety_detection_advbench/*.csv
